@@ -2,6 +2,7 @@
 DOMAIN-SUFFIX,mthreads.com
 DOMAIN,docker.zzyym.top,no-resolve
 DOMAIN,jenkins.zzyym.top,no-resolve
+DOMAIN-SUFFIX,mt.zzyym.top,no-resolve
 
 # 本地/局域网地址
 IP-CIDR,172.16.0.0/12,no-resolve
